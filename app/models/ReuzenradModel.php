@@ -17,7 +17,8 @@ class reuzenradModel
                     ,Land
                     ,Kosten
                     ,AantalPassagiers
-            FROM    Reuzenrad";
+            FROM    Reuzenrad
+            order by Id asc";
 
         $this->db->query($sql);
 
