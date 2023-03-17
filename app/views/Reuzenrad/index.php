@@ -23,6 +23,8 @@
             <?= $data['rows']; ?>
         </tbody>
     </table>
+    <a href='http://www.mvc-oop-toets.com/'>Treug naar home </a>
+
 </body>
 
 </html>
