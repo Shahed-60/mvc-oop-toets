@@ -2,9 +2,9 @@
     /* background-color: black; */
 /* }  */
 
-h3 {
+/* h3 {
     color: green;
-}
+} */
 
 table,
 td,
@@ -13,8 +13,12 @@ th {
 }
 
 table {
-    width: 40%;
+    width: 50%;
     border-collapse: collapse;
+}
+
+.reuzenrad-titel {
+    color: rgb(62, 62, 220);
 }
 
 /*  */
